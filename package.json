@@ -1,0 +1,21 @@
+{
+  "name": "express-app-template",
+  "version": "0.0.1",
+  "description": "Express app template",
+  "repository": "https://github.com/lucerion/express-app-template",
+  "type": "module",
+  "author": "Author <email>",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "start": "node --watch src/",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "globals": "^16.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "eslint": "^9.23.0"
+  }
+}
