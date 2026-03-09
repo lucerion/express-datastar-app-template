@@ -103,6 +103,11 @@
   resolved "https://registry.npmjs.org/@humanwhocodes/retry/-/retry-0.4.2.tgz#1860473de7dfa1546767448f333db80cb0ff2161"
   integrity sha512-xeO57FpIu4p1Ri3Jq/EXq4ClRm86dVF2z/+kvFnyqVYRavTZmaFaUBbWCOuuTh0o/g7DSsk6kc2vrS4Vl5oPOQ==
 
+"@starfederation/datastar-sdk@^1.0.0-RC.3":
+  version "1.0.0-RC.3"
+  resolved "https://registry.npmjs.org/@starfederation/datastar-sdk/-/datastar-sdk-1.0.0-RC.3.tgz#37405a54e77ff38dac70e2d213010d9859396ba6"
+  integrity sha512-ORnV4cvhwWk+oHXos54SFVcA/fhRSzJqM0dN3i3aqGRlJ5WrM7lCGkgWNqw4Lj96QnlPu1+63avDfHQ3bTF3Cw==
+
 "@types/estree@^1.0.6":
   version "1.0.7"
   resolved "https://registry.npmjs.org/@types/estree/-/estree-1.0.7.tgz#4158d3105276773d5b7695cd4834b1722e4f37a8"
@@ -298,6 +303,11 @@ ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
+
+ejs@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.npmjs.org/ejs/-/ejs-5.0.1.tgz#179523a437ed448543ad1b76ca4fb4c2e8950304"
+  integrity sha512-COqBPFMxuPTPspXl2DkVYaDS3HtrD1GpzOGkNTJ1IYkifq/r9h8SVEFrjA3D9/VJGOEoMQcrlhpntcSUrM8k6A==
 
 encodeurl@^2.0.0:
   version "2.0.0"

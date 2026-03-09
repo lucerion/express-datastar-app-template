@@ -1,8 +1,9 @@
-# Express app template
+# Express + Datastar app template
 
 Packages
 
 * [express](https://expressjs.com)
+* [datastar](https://data-star.dev)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [ESlint](https://www.npmjs.com/package/eslint)
 
